@@ -1,0 +1,1187 @@
+[
+{
+  "model": "core.employee",
+  "pk": 1,
+  "fields": {
+    "employee_id": "1",
+    "full_name": "Harsh Singh",
+    "email": "harsh8750994013@gmail.com",
+    "department": "IT",
+    "created_at": "2026-01-17T08:05:54.385Z"
+  }
+},
+{
+  "model": "core.employee",
+  "pk": 2,
+  "fields": {
+    "employee_id": "EMP001",
+    "full_name": "Harsh Singh",
+    "email": "harsh1@gmail.com",
+    "department": "IT",
+    "created_at": "2026-01-17T08:08:06.294Z"
+  }
+},
+{
+  "model": "core.employee",
+  "pk": 4,
+  "fields": {
+    "employee_id": "EMP003",
+    "full_name": "Rohit Sharma",
+    "email": "rohit@gmail.com",
+    "department": "Finance",
+    "created_at": "2026-01-17T08:08:06.337Z"
+  }
+},
+{
+  "model": "core.employee",
+  "pk": 5,
+  "fields": {
+    "employee_id": "EMP004",
+    "full_name": "Neha Gupta",
+    "email": "neha@gmail.com",
+    "department": "IT",
+    "created_at": "2026-01-17T08:08:06.361Z"
+  }
+},
+{
+  "model": "core.employee",
+  "pk": 6,
+  "fields": {
+    "employee_id": "EMP005",
+    "full_name": "Priya Singh",
+    "email": "priya@gmail.com",
+    "department": "Marketing",
+    "created_at": "2026-01-17T08:08:06.382Z"
+  }
+},
+{
+  "model": "core.employee",
+  "pk": 7,
+  "fields": {
+    "employee_id": "EMP006",
+    "full_name": "Rahul Mehta",
+    "email": "rahul@gmail.com",
+    "department": "Sales",
+    "created_at": "2026-01-17T08:08:06.406Z"
+  }
+},
+{
+  "model": "core.employee",
+  "pk": 8,
+  "fields": {
+    "employee_id": "EMP007",
+    "full_name": "Ankit Jain",
+    "email": "ankit@gmail.com",
+    "department": "IT",
+    "created_at": "2026-01-17T08:08:06.431Z"
+  }
+},
+{
+  "model": "core.employee",
+  "pk": 9,
+  "fields": {
+    "employee_id": "EMP008",
+    "full_name": "Pooja Verma",
+    "email": "pooja@gmail.com",
+    "department": "HR",
+    "created_at": "2026-01-17T08:08:06.461Z"
+  }
+},
+{
+  "model": "core.employee",
+  "pk": 10,
+  "fields": {
+    "employee_id": "EMP009",
+    "full_name": "Suresh Kumar",
+    "email": "suresh@gmail.com",
+    "department": "Finance",
+    "created_at": "2026-01-17T08:08:06.489Z"
+  }
+},
+{
+  "model": "core.employee",
+  "pk": 11,
+  "fields": {
+    "employee_id": "EMP010",
+    "full_name": "Kiran Patel",
+    "email": "kiran@gmail.com",
+    "department": "Sales",
+    "created_at": "2026-01-17T08:08:06.511Z"
+  }
+},
+{
+  "model": "core.employee",
+  "pk": 12,
+  "fields": {
+    "employee_id": "EMP011",
+    "full_name": "Deepak Yadav",
+    "email": "deepak@gmail.com",
+    "department": "IT",
+    "created_at": "2026-01-17T08:08:06.531Z"
+  }
+},
+{
+  "model": "core.employee",
+  "pk": 13,
+  "fields": {
+    "employee_id": "EMP012",
+    "full_name": "Simran Kaur",
+    "email": "simran@gmail.com",
+    "department": "Marketing",
+    "created_at": "2026-01-17T08:08:06.549Z"
+  }
+},
+{
+  "model": "core.employee",
+  "pk": 14,
+  "fields": {
+    "employee_id": "EMP013",
+    "full_name": "Vikas Mishra",
+    "email": "vikas@gmail.com",
+    "department": "HR",
+    "created_at": "2026-01-17T08:08:06.568Z"
+  }
+},
+{
+  "model": "core.employee",
+  "pk": 15,
+  "fields": {
+    "employee_id": "EMP014",
+    "full_name": "Riya Saxena",
+    "email": "riya@gmail.com",
+    "department": "Finance",
+    "created_at": "2026-01-17T08:08:06.587Z"
+  }
+},
+{
+  "model": "core.employee",
+  "pk": 16,
+  "fields": {
+    "employee_id": "EMP015",
+    "full_name": "Manish Gupta",
+    "email": "manish@gmail.com",
+    "department": "Sales",
+    "created_at": "2026-01-17T08:08:06.609Z"
+  }
+},
+{
+  "model": "core.employee",
+  "pk": 17,
+  "fields": {
+    "employee_id": "EMP016",
+    "full_name": "Sneha Kapoor",
+    "email": "sneha@gmail.com",
+    "department": "IT",
+    "created_at": "2026-01-17T08:08:06.628Z"
+  }
+},
+{
+  "model": "core.employee",
+  "pk": 18,
+  "fields": {
+    "employee_id": "EMP017",
+    "full_name": "Nitin Agarwal",
+    "email": "nitin@gmail.com",
+    "department": "Marketing",
+    "created_at": "2026-01-17T08:08:06.648Z"
+  }
+},
+{
+  "model": "core.employee",
+  "pk": 19,
+  "fields": {
+    "employee_id": "EMP018",
+    "full_name": "Shubham Tiwari",
+    "email": "shubham@gmail.com",
+    "department": "HR",
+    "created_at": "2026-01-17T08:08:06.667Z"
+  }
+},
+{
+  "model": "core.employee",
+  "pk": 20,
+  "fields": {
+    "employee_id": "EMP019",
+    "full_name": "Kavita Joshi",
+    "email": "kavita@gmail.com",
+    "department": "Finance",
+    "created_at": "2026-01-17T08:08:06.686Z"
+  }
+},
+{
+  "model": "core.employee",
+  "pk": 21,
+  "fields": {
+    "employee_id": "EMP020",
+    "full_name": "Arjun Malhotra",
+    "email": "arjun@gmail.com",
+    "department": "Sales",
+    "created_at": "2026-01-17T08:08:06.704Z"
+  }
+},
+{
+  "model": "core.employee",
+  "pk": 23,
+  "fields": {
+    "employee_id": "emp2001",
+    "full_name": "vinay singh",
+    "email": "vinay.dev@gmail.com",
+    "department": "HR",
+    "created_at": "2026-01-17T09:14:55.919Z"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 1,
+  "fields": {
+    "employee": 1,
+    "date": "2026-01-17",
+    "status": "PRESENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 2,
+  "fields": {
+    "employee": 1,
+    "date": "2026-01-16",
+    "status": "PRESENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 3,
+  "fields": {
+    "employee": 1,
+    "date": "2026-01-15",
+    "status": "ABSENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 4,
+  "fields": {
+    "employee": 1,
+    "date": "2026-01-14",
+    "status": "ABSENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 5,
+  "fields": {
+    "employee": 1,
+    "date": "2026-01-13",
+    "status": "PRESENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 6,
+  "fields": {
+    "employee": 2,
+    "date": "2026-01-17",
+    "status": "ABSENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 7,
+  "fields": {
+    "employee": 2,
+    "date": "2026-01-16",
+    "status": "ABSENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 8,
+  "fields": {
+    "employee": 2,
+    "date": "2026-01-15",
+    "status": "ABSENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 9,
+  "fields": {
+    "employee": 2,
+    "date": "2026-01-14",
+    "status": "ABSENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 10,
+  "fields": {
+    "employee": 2,
+    "date": "2026-01-13",
+    "status": "PRESENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 16,
+  "fields": {
+    "employee": 4,
+    "date": "2026-01-17",
+    "status": "PRESENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 17,
+  "fields": {
+    "employee": 4,
+    "date": "2026-01-16",
+    "status": "PRESENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 18,
+  "fields": {
+    "employee": 4,
+    "date": "2026-01-15",
+    "status": "ABSENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 19,
+  "fields": {
+    "employee": 4,
+    "date": "2026-01-14",
+    "status": "ABSENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 20,
+  "fields": {
+    "employee": 4,
+    "date": "2026-01-13",
+    "status": "ABSENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 21,
+  "fields": {
+    "employee": 5,
+    "date": "2026-01-17",
+    "status": "ABSENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 22,
+  "fields": {
+    "employee": 5,
+    "date": "2026-01-16",
+    "status": "PRESENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 23,
+  "fields": {
+    "employee": 5,
+    "date": "2026-01-15",
+    "status": "ABSENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 24,
+  "fields": {
+    "employee": 5,
+    "date": "2026-01-14",
+    "status": "PRESENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 25,
+  "fields": {
+    "employee": 5,
+    "date": "2026-01-13",
+    "status": "PRESENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 26,
+  "fields": {
+    "employee": 6,
+    "date": "2026-01-17",
+    "status": "ABSENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 27,
+  "fields": {
+    "employee": 6,
+    "date": "2026-01-16",
+    "status": "PRESENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 28,
+  "fields": {
+    "employee": 6,
+    "date": "2026-01-15",
+    "status": "ABSENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 29,
+  "fields": {
+    "employee": 6,
+    "date": "2026-01-14",
+    "status": "PRESENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 30,
+  "fields": {
+    "employee": 6,
+    "date": "2026-01-13",
+    "status": "ABSENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 31,
+  "fields": {
+    "employee": 7,
+    "date": "2026-01-17",
+    "status": "PRESENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 32,
+  "fields": {
+    "employee": 7,
+    "date": "2026-01-16",
+    "status": "ABSENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 33,
+  "fields": {
+    "employee": 7,
+    "date": "2026-01-15",
+    "status": "PRESENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 34,
+  "fields": {
+    "employee": 7,
+    "date": "2026-01-14",
+    "status": "PRESENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 35,
+  "fields": {
+    "employee": 7,
+    "date": "2026-01-13",
+    "status": "PRESENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 36,
+  "fields": {
+    "employee": 8,
+    "date": "2026-01-17",
+    "status": "PRESENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 37,
+  "fields": {
+    "employee": 8,
+    "date": "2026-01-16",
+    "status": "ABSENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 38,
+  "fields": {
+    "employee": 8,
+    "date": "2026-01-15",
+    "status": "ABSENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 39,
+  "fields": {
+    "employee": 8,
+    "date": "2026-01-14",
+    "status": "ABSENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 40,
+  "fields": {
+    "employee": 8,
+    "date": "2026-01-13",
+    "status": "PRESENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 41,
+  "fields": {
+    "employee": 9,
+    "date": "2026-01-17",
+    "status": "ABSENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 42,
+  "fields": {
+    "employee": 9,
+    "date": "2026-01-16",
+    "status": "PRESENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 43,
+  "fields": {
+    "employee": 9,
+    "date": "2026-01-15",
+    "status": "ABSENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 44,
+  "fields": {
+    "employee": 9,
+    "date": "2026-01-14",
+    "status": "PRESENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 45,
+  "fields": {
+    "employee": 9,
+    "date": "2026-01-13",
+    "status": "PRESENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 46,
+  "fields": {
+    "employee": 10,
+    "date": "2026-01-17",
+    "status": "PRESENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 47,
+  "fields": {
+    "employee": 10,
+    "date": "2026-01-16",
+    "status": "ABSENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 48,
+  "fields": {
+    "employee": 10,
+    "date": "2026-01-15",
+    "status": "ABSENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 49,
+  "fields": {
+    "employee": 10,
+    "date": "2026-01-14",
+    "status": "ABSENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 50,
+  "fields": {
+    "employee": 10,
+    "date": "2026-01-13",
+    "status": "ABSENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 51,
+  "fields": {
+    "employee": 11,
+    "date": "2026-01-17",
+    "status": "PRESENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 52,
+  "fields": {
+    "employee": 11,
+    "date": "2026-01-16",
+    "status": "PRESENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 53,
+  "fields": {
+    "employee": 11,
+    "date": "2026-01-15",
+    "status": "ABSENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 54,
+  "fields": {
+    "employee": 11,
+    "date": "2026-01-14",
+    "status": "PRESENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 55,
+  "fields": {
+    "employee": 11,
+    "date": "2026-01-13",
+    "status": "ABSENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 56,
+  "fields": {
+    "employee": 12,
+    "date": "2026-01-17",
+    "status": "PRESENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 57,
+  "fields": {
+    "employee": 12,
+    "date": "2026-01-16",
+    "status": "ABSENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 58,
+  "fields": {
+    "employee": 12,
+    "date": "2026-01-15",
+    "status": "PRESENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 59,
+  "fields": {
+    "employee": 12,
+    "date": "2026-01-14",
+    "status": "PRESENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 60,
+  "fields": {
+    "employee": 12,
+    "date": "2026-01-13",
+    "status": "ABSENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 61,
+  "fields": {
+    "employee": 13,
+    "date": "2026-01-17",
+    "status": "PRESENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 62,
+  "fields": {
+    "employee": 13,
+    "date": "2026-01-16",
+    "status": "ABSENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 63,
+  "fields": {
+    "employee": 13,
+    "date": "2026-01-15",
+    "status": "PRESENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 64,
+  "fields": {
+    "employee": 13,
+    "date": "2026-01-14",
+    "status": "PRESENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 65,
+  "fields": {
+    "employee": 13,
+    "date": "2026-01-13",
+    "status": "ABSENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 66,
+  "fields": {
+    "employee": 14,
+    "date": "2026-01-17",
+    "status": "ABSENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 67,
+  "fields": {
+    "employee": 14,
+    "date": "2026-01-16",
+    "status": "ABSENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 68,
+  "fields": {
+    "employee": 14,
+    "date": "2026-01-15",
+    "status": "ABSENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 69,
+  "fields": {
+    "employee": 14,
+    "date": "2026-01-14",
+    "status": "PRESENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 70,
+  "fields": {
+    "employee": 14,
+    "date": "2026-01-13",
+    "status": "ABSENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 71,
+  "fields": {
+    "employee": 15,
+    "date": "2026-01-17",
+    "status": "ABSENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 72,
+  "fields": {
+    "employee": 15,
+    "date": "2026-01-16",
+    "status": "PRESENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 73,
+  "fields": {
+    "employee": 15,
+    "date": "2026-01-15",
+    "status": "ABSENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 74,
+  "fields": {
+    "employee": 15,
+    "date": "2026-01-14",
+    "status": "PRESENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 75,
+  "fields": {
+    "employee": 15,
+    "date": "2026-01-13",
+    "status": "PRESENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 76,
+  "fields": {
+    "employee": 16,
+    "date": "2026-01-17",
+    "status": "PRESENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 77,
+  "fields": {
+    "employee": 16,
+    "date": "2026-01-16",
+    "status": "ABSENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 78,
+  "fields": {
+    "employee": 16,
+    "date": "2026-01-15",
+    "status": "PRESENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 79,
+  "fields": {
+    "employee": 16,
+    "date": "2026-01-14",
+    "status": "ABSENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 80,
+  "fields": {
+    "employee": 16,
+    "date": "2026-01-13",
+    "status": "PRESENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 81,
+  "fields": {
+    "employee": 17,
+    "date": "2026-01-17",
+    "status": "PRESENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 82,
+  "fields": {
+    "employee": 17,
+    "date": "2026-01-16",
+    "status": "ABSENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 83,
+  "fields": {
+    "employee": 17,
+    "date": "2026-01-15",
+    "status": "PRESENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 84,
+  "fields": {
+    "employee": 17,
+    "date": "2026-01-14",
+    "status": "PRESENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 85,
+  "fields": {
+    "employee": 17,
+    "date": "2026-01-13",
+    "status": "ABSENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 86,
+  "fields": {
+    "employee": 18,
+    "date": "2026-01-17",
+    "status": "PRESENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 87,
+  "fields": {
+    "employee": 18,
+    "date": "2026-01-16",
+    "status": "ABSENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 88,
+  "fields": {
+    "employee": 18,
+    "date": "2026-01-15",
+    "status": "PRESENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 89,
+  "fields": {
+    "employee": 18,
+    "date": "2026-01-14",
+    "status": "PRESENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 90,
+  "fields": {
+    "employee": 18,
+    "date": "2026-01-13",
+    "status": "ABSENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 91,
+  "fields": {
+    "employee": 19,
+    "date": "2026-01-17",
+    "status": "ABSENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 92,
+  "fields": {
+    "employee": 19,
+    "date": "2026-01-16",
+    "status": "PRESENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 93,
+  "fields": {
+    "employee": 19,
+    "date": "2026-01-15",
+    "status": "PRESENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 94,
+  "fields": {
+    "employee": 19,
+    "date": "2026-01-14",
+    "status": "PRESENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 95,
+  "fields": {
+    "employee": 19,
+    "date": "2026-01-13",
+    "status": "ABSENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 96,
+  "fields": {
+    "employee": 20,
+    "date": "2026-01-17",
+    "status": "ABSENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 97,
+  "fields": {
+    "employee": 20,
+    "date": "2026-01-16",
+    "status": "PRESENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 98,
+  "fields": {
+    "employee": 20,
+    "date": "2026-01-15",
+    "status": "ABSENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 99,
+  "fields": {
+    "employee": 20,
+    "date": "2026-01-14",
+    "status": "ABSENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 100,
+  "fields": {
+    "employee": 20,
+    "date": "2026-01-13",
+    "status": "PRESENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 101,
+  "fields": {
+    "employee": 21,
+    "date": "2026-01-17",
+    "status": "ABSENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 102,
+  "fields": {
+    "employee": 21,
+    "date": "2026-01-16",
+    "status": "ABSENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 103,
+  "fields": {
+    "employee": 21,
+    "date": "2026-01-15",
+    "status": "ABSENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 104,
+  "fields": {
+    "employee": 21,
+    "date": "2026-01-14",
+    "status": "ABSENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 105,
+  "fields": {
+    "employee": 21,
+    "date": "2026-01-13",
+    "status": "ABSENT"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 106,
+  "fields": {
+    "employee": 4,
+    "date": "2025-12-04",
+    "status": "Present"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 107,
+  "fields": {
+    "employee": 4,
+    "date": "2025-12-11",
+    "status": "Absent"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 108,
+  "fields": {
+    "employee": 8,
+    "date": "2025-12-27",
+    "status": "Present"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 109,
+  "fields": {
+    "employee": 9,
+    "date": "2025-12-01",
+    "status": "Present"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 110,
+  "fields": {
+    "employee": 19,
+    "date": "2025-12-31",
+    "status": "Present"
+  }
+},
+{
+  "model": "core.attendance",
+  "pk": 111,
+  "fields": {
+    "employee": 4,
+    "date": "2026-01-01",
+    "status": "Present"
+  }
+}
+]
