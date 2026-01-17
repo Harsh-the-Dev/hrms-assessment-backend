@@ -17,9 +17,32 @@ class EmployeeDeleteView(generics.DestroyAPIView):
     serializer_class = EmployeeSerializer
     lookup_field = 'id'
 
+
 class AttendanceCreateView(generics.CreateAPIView):
     queryset = Attendance.objects.all()
     serializer_class = AttendanceSerializer
+
+    def create(self, request, *args, **kwargs):
+        employee_id = request.data.get("employee")
+        date = request.data.get("date")
+        status_val = request.data.get("status")
+
+        if not employee_id or not date or not status_val:
+            return Response({"error": "Employee, date and status are required."},
+                            status=status.HTTP_400_BAD_REQUEST)
+
+        # Use update_or_create to avoid duplicate errors
+        attendance, created = Attendance.objects.update_or_create(
+            employee_id=employee_id,
+            date=date,
+            defaults={"status": status_val}
+        )
+
+        serializer = self.get_serializer(attendance)
+        if created:
+            return Response(serializer.data, status=status.HTTP_201_CREATED)
+        else:
+            return Response(serializer.data, status=status.HTTP_200_OK)
 
 class AttendanceListByEmployeeView(generics.ListAPIView):
     serializer_class = AttendanceSerializer
