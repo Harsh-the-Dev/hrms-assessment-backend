@@ -122,7 +122,6 @@ CORS_ALLOWED_ORIGINS = [
     "http://127.0.0.1:5173",
 ]
 
-'DEFAULT_PERMISSION_CLASSES': ['IsAuthenticatedOrReadOnly']
 REST_FRAMEWORK = {
     'DEFAULT_PERMISSION_CLASSES': [
         'rest_framework.permissions.AllowAny',
