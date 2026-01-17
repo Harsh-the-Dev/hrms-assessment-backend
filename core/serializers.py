@@ -14,6 +14,4 @@ class AttendanceSerializer(serializers.ModelSerializer):
         fields = ['id', 'employee', 'date', 'status']
 
     def validate(self, data):
-        if Attendance.objects.filter(employee=data['employee'], date=data['date']).exists():
-            raise serializers.ValidationError("Attendance for this employee on this date already exists.")
         return data
