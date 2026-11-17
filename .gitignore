@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# Local databases and data dumps
+db.sqlite3
+db.sqlite3-journal
+db_backup.json
+
+# Static files collected for deployment
+staticfiles/
+
+# Build and test output
+dist/
+build/
+coverage
+.coverage
+htmlcov/
+.pytest_cache/
